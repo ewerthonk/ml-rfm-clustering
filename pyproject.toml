@@ -4,6 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["ewerthonk <kutz.ewerthon@gmail.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
@@ -21,6 +22,10 @@ seaborn = "^0.13.2"
 notebook = "6"
 rise = "^5.7.1"
 jupyter-nbextensions-configurator = "^0.6.4"
+plotly = "^5.24.1"
+yellowbrick = "^1.5"
+feature-engine = "^1.8.2"
+scikit-learn = "1.5.2"
 
 
 [build-system]

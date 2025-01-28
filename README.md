@@ -29,6 +29,9 @@ This project focuses on implementing a **customer segmentation model** for an e-
 ## 🗄 Notebooks
 
 - [1.0-eda.ipynb](notebooks/1.0-eda.ipynb)
+- [2.0-rfm_default.ipynb](notebooks/2.0-rfm_default.ipynb)
+- [3.0-rfm_with_kmeans.ipynb](notebooks/3.0-rfm_with_kmeans.ipynb)
+- [4.0-rfm_with_kmeans_and_transformation.ipynb](notebooks/4.0-rfm_with_kmeans_and_transformation.ipynb)
 
 ## 📦 Folder Structure
 

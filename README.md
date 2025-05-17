@@ -1,9 +1,7 @@
-> **Note:** This project is currently in progress.
-
-# Retail Ecommerce RFM Clustering 
+# Mapping E-Commerce Customer Profiles with RFM and K-Means
 
 <div align="center">
-  <em>Running an RFM analysis and clustering on retail ecommerce data.</em>
+  <em>Mapping E-Commerce Customer Profiles with RFM and K-Means.</em>
 </div>
 
 <br>
@@ -17,7 +15,7 @@
 
 ### 👨🏻‍🏫 Introduction
 
-This project focuses on implementing a **customer segmentation model** for an e-commerce retail company, leveraging the **RFM (Recency, Frequency, Monetary)** methodology and **K-Means clustering**. The goal is to identify customer behavior patterns and enable data-driven marketing strategies that maximize engagement and revenue.
+This is the repo for paper "Mapping E-Commerce Customer Profiles with RFM and K-Means" presented at CoUrb - SBRC 2025 in Natal, RN, Brazil. The project focuses on implementing a scalable **customer segmentation model** for e-commerce retail companies, leveraging the **RFM (Recency, Frequency, Monetary)** methodology and **K-Means clustering**. The goal is to understand online customer behavior dynamics and build a framework to enable e-commerce companies to apply data-driven strategies.
 
 ### 🎯 Goals
 
